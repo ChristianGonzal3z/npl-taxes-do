@@ -1,0 +1,99 @@
+Preguntas,Respuestas
+¿Puedo emitir un comprobante electrónico para exportaciones en un idioma diferente al español?,"Sí. Esta Dirección General no tiene objeción de que las facturas de exportación electrónicas sean emitidas a sus clientes en idiomas diferentes o en dos idiomas, siempre y cuando la factura que sea sometida en nuestro sistema sea en idioma español y cumpla con todas las estructura especificadas del XML."
+¿Dónde puedo consultar el listado de Proveedores de Servicios de Facturación Electrónica y Emisores Autorizados?,"Puede consultar el listado de Proveedores de Servicios de Facturación Electrónica y Emisores Autorizados en la página web DGII, siguiendo estos pasos:
+
+Ingrese a nuestra página web: www.dgii.gov.do.
+En la sección Ciclo del Contribuyente, presione el botón Facturación.
+Pulse la opción Facturación Electrónica.
+Seleccione la opción Proveedores de Servicios de FE Autorizados o Emisores Autorizados para visualizar el listado (según corresponda).
+Importante:
+
+Estos listados son actualizados semanalmente.
+Es obligación del Proveedor de Servicios de Facturación Electrónica mantener vigente su autorización como Emisor Electrónico, conforme a lo establecido en la Norma General núm. 01-2020 que regula la emisión y el uso de los Comprobantes Fiscales Electrónicos (e-CF) en el proceso de Facturación Electrónica, de fecha 09 de enero de 2020."
+¿Qué grava el ITBIS?,"1) La transferencia de bienes industrializados.
+
+2) La importación de bienes industrializados.
+
+3) La prestación y la locación de servicios.
+
+
+En la actualidad el reglamento del ITBIS es el decreto 293-11 es donde encontraremos todo lo referente a este impuesto y como se rige en la actualidad en el país, este decreto establece los bienes y servicios exentos, los gravados y los mecanismos para la declaración del impuesto. "
+¿Cuáles son las marcas de Facturación Electrónica y qué significan?,"En facturación electronica existen las siguientes marcas:
+
+La marca de Facturador Electrónico Transitorio es colocada en el Registro Nacional de Contribuyente (RNC) cuando el contribuyente concluye satisfactoriamente el proceso de certificación para ser emisor electrónico. Dado a que la facturación Electrónica en el país  se encuentra en una etapa de transición o voluntariedad, una vez colocada esta marca, el emisor electrónico se encuentra autorizado a emitir comprobantes fiscales electrónicos (e-CF) tanto serie letra “E” como la serie letra “B”. 2.
+La marca de Facturador Gratuito es colocada en el Registro Nacional de Contribuyente (RNC) cuando el contribuyente solicita la autorización para utilizar el Facturador Gratuito de la DGII."
+¿Qué debo hacer para migrar del Facturador Gratuito a un sistema propio o al de un Proveedor de Servicios de Facturación Electrónica?,Los contribuyentes que deseen migrar del Facturador Gratuito a un sistema propio o al de un Proveedor de Servicios de Facturación Electrónica deben solicitar la autorización para ser emisor electrónico.
+¿Puede un mismo delegado con el rol de firmante ser delegado para varios contribuyentes diferentes?,"Sí, puede un mismo delegado con el rol de firmante ser delegado para varios contribuyentes diferentes, siempre y cuando se encuentre como delegado con el ""Rol de Firmante"" por cada emisor electrónico"
+¿Qué debo hacer para cambiar la clave de acceso del facturador gratuito?,"Para cambiar la clave de acceso del facturador gratuito debe seguir estos pasos, según sea el caso:
+ 
+Desde la página de inicio del portal FEG (sin ingresar con usuario y clave)
+
+Ingrese al portal del Facturador Gratuito.
+Presiona la opción ¿Olvidaste tu Contraseña?
+Digite el RNC/Cédula Delegado y pulse el botón Restablecer. En caso de no recibirlo, puedes presionar el botón Reenviar.
+Visualizará un mensaje indicándole que hemos enviado un mensaje al buzón de la Oficina Virtual (OFV) del delegado con un enlace para restablecer la contraseña.
+Cuando reciba el mensaje, pulse el botón Restablecer Contraseña.
+En el campo Nueva Contraseña, digite la nueva clave que utilizará para acceder, confirme la misma y presione el botón Guardar.
+
+Desde dentro del portal del FEG
+
+Ingrese al portal del Facturador Gratuito.
+Digite las informaciones requeridas en los campos: RNC Empresa, RNC/Cédula Delegado y Contraseña y luego pulse el botón Acceder.
+En la parte superior derecha, presione el botón Ajuste/Herramienta (el icono de la tuerca) y seleccione la opción Cambiar Contraseña.
+Digite el RNC/Cédula Delegado y pulse el botón Restablecer. En caso de no recibirlo, puedes presionar el botón Reenviar.
+Visualizará un mensaje indicándole que hemos enviado un mensaje al buzón de la Oficina Virtual (OFV) del delegado con un enlace para restablecer la contraseña.
+Cuando reciba el mensaje, pulse el botón Restablecer Contraseña.
+En el campo Nueva Contraseña, digite la nueva clave que utilizará para acceder, confirme la misma y presione el botón Guardar.
+Importante:
+El mensaje de recuperación de la clave le llegará al Buzón de Mensajes de la Oficina Virtual del delegado Administrador.
+
+La contraseña debe ser reestablecida dentro de las 24 horas de recibido el mensaje."
+¿Qué es la Representación Impresa (RI) de un e-CF?,"Es la versión impresa en papel del formato XML de un e-CF, que será entregada a receptores no electrónicos para que puedan reportar sus transacciones de compras ante la DGII, sustentar crédito fiscal o consumo, y conservar dichos documentos según lo establece la legislación vigente, como a quienes lo requieran.
+ 
+Deberá contener todos los campos establecidos como obligatorios por el Decreto 254-06, según las especificaciones de la Norma General 06-2018.*
+  
+Consideraciones Importantes:
+
+•Conforme lo establecido en el Artículo 10 de la Norma General 01-2020 que regula la Emisión y el uso de los Comprobantes Fiscales Electrónicos (e-CF) en el proceso de facturación electrónica “Todo receptor de e-CF no electrónico deberá exigir a su emisor electrónico una Representación Impresa (RI) del e-CF en el formato y en las condiciones dispuestas por la DGII. A tales fines, la representación impresa tendrá la misma validez que el documento electrónico válidamente emitido.
+
+•* Si el contribuyente desea incluir campos adicionales, podrá hacerlo conforme lo indique la estructura del formato XML de e-CF.
+
+Base Legal: Norma 01-2020, Art. 3, literal (f); Ley 32-23."
+¿Qué es un certificado digital?,"Es un documento digital emitido y firmado digitalmente por una entidad de certificación, que identifica inequívocamente a un suscriptor durante el período de vigencia del certificado y que se constituye en prueba de que dicho suscriptor es fuente u originador del contenido de un documento digital o mensaje de datos que incorpore su certificado asociado."
+¿Cómo puedo consultar el estatus de los NCF electrónicos (e-CF) a través de la página web de la DGII?,"Puede consultar el estatus de un NCF electrónicos (e-CF) a través de la página web, siguiendo estos pasos:
+
+1. Ingrese a nuestra página web.
+2. En la sección Herramientas, menú Consultas, seleccione la opción NCF / e-NCF .
+3. Introduzca el RNC del contribuyente y el e-NCF que desea consultar, presione el botón Buscar.
+4. Luego introduzca el RNC del comprador e ingrese el Código de Seguridad, sobre el cual desea realizar la consulta y presione el botón Consultar.
+5. Visualizará en pantalla el estatus del e-CF consultado:
+
+Aceptado: el e-CF fue aceptado, es válido para fines fiscales y las informaciones que contiene se presentan de forma íntegra y coherente.
+
+Rechazado: el e-CF no es válido para fines fiscales. El mismo puede tener errores o no cumple con los requisitos especificados en el formato estándar que debe tener un Comprobante Fiscal Electrónico. Debe ponerse en contacto con el emisor del e-CF.
+
+Comprobante Fiscal Electrónico no fue encontrado: Esta respuesta significa que la secuencia de e-NCF consultada es válida, pero que el e-CF como tal no ha sido recibido aún por DGII.
+
+Importante:
+
+
+Las informaciones requeridas se encuentran en la Representación Impresa (RI) que posee el contribuyente y es obligatorio para realizar la consulta del e-CF.
+
+El código de seguridad está incorporado en la nueva versión de la RI, por tanto, este campo es obligatorio para aquellos contribuyentes que posean RI con la nueva versión que entró en vigor el 1 de diciembre del 2019.
+
+Al realizar la consulta del e-CF se puede validar que la secuencia se encuentra autorizada, así como también las informaciones que contiene el documento completo.
+
+
+También puede consultar los Comprobantes Fiscales Electrónicos (e-CF) por las siguientes vías:
+
+
+• Servicio web de consulta de receptor.
+• Consulta de código QR sobre cualquier Representación Impresa (RI) de un e-CF.
+• Aplicación Móvil DGII
+
+"
+¿Qué es el Sistema Fiscal de Facturación Electrónica?,"El Sistema Fiscal de Facturación Electrónica es un sistema mediante el cual se validarán y acreditarán los comprobantes fiscales electrónicos que resulten de las facturas electrónicas emitidas en el país, así como aquellas formas jurídicas y documentos tributarios electrónicos que les modifican y que sirve de respaldo para sustentar gastos y créditos fiscales.
+
+ 
+
+Este sistema es administrado por la Dirección General de Impuestos Internos, la cual tiene la responsabilidad de asegurar la integridad de las informaciones que acreditan los comprobantes fiscales electrónicos."
